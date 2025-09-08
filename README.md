@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Tabresh!
 
-<!--
-**tabresh04/tabresh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+I'm passionate about programming, solving problems, and building projects that make a difference. This is my first page on GitHub, and I'm excited to share my journey with you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Java, Python, and web development
+- Exploring data structures and algorithms
+
+### 🔭 I’m currently working on
+- Personal projects to strengthen my coding skills
+- Collaborating on open-source projects
+
+### 👯 I’m looking to collaborate on
+- Interesting coding challenges
+- Tools and apps that help developers and learners
+
+### 💬 Ask me about
+- Programming concepts and problem-solving
+- Development tools and best practices
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/shaikh-tabresh-3686a926b)
+- [GitHub](https://github.com/tabresh04)
+
+### ⚡ Fun fact
+I love turning ideas into code and learning something new every day!
+
+Feel free to connect and collaborate. Let’s build something great together! 🚀
