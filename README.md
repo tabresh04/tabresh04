@@ -12,10 +12,6 @@ I'm passionate about programming, solving problems, and building projects that c
 - Personal projects to sharpen my coding skills and explore new technologies
 - Contributing to open-source projects that help developers and learners
 
-### 👯 I’m looking to collaborate on
-- Challenging coding problems and algorithmic solutions
-- Developer tools and applications that enhance productivity
-
 ### 📂 About my projects
 
 1. **Recipe Hub** *Jun 2025*  
@@ -35,7 +31,6 @@ I'm passionate about programming, solving problems, and building projects that c
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/shaikh-tabresh-3686a926b)
-- [GitHub](https://github.com/tabresh04)
 - [LeetCode](https://leetcode.com/u/tabresh04)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/user/noothin1nji/)
 
